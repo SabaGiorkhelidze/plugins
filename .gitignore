@@ -1,0 +1,8 @@
+# Exclude hello.php
+hello.php
+
+# Exclude index.php
+index.php
+
+# Exclude the akismet directory and its contents
+/akismet/
